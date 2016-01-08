@@ -26,3 +26,16 @@ And last but not least, for normal dev work you'll run:
     npm run watch
 
 Watch will lint and then restart the server any time files in `src` change!
+
+
+### Resources
+* [Wikipedia on software linting](https://en.wikipedia.org/wiki/Lint_%28software%29)
+* [jslint](http://jslint.com/)
+* [jshint](http://jshint.com/)
+* [jscs](http://jscs.info/)
+* [eslint](http://eslint.org/) & [rules](http://eslint.org/docs/rules/)
+* [standardjs](http://standardjs.com/)
+* [JSJabber on eslint](https://devchat.tv/js-jabber/162-jsj-eslint-with-jamund-ferguson)
+* [JSJabber on jshint](https://devchat.tv/js-jabber/082-jsj-jshint-with-anton-kovalyov) (slightly out of date)
+* [JSJabber on code smells](https://devchat.tv/js-jabber/188-jsj-javascript-code-smells-with-elijah-manor)
+* [JavaScript Linting slides](http://slides.com/spicydonuts/lint#/)
