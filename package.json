@@ -1,0 +1,33 @@
+{
+  "name": "eslint-starter",
+  "version": "1.0.0",
+  "description": "Tiny eslint example",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node .",
+    "lint": "eslint src",
+    "test": "npm run lint && echo \"Write some tests!\"",
+    "watch": "nodemon --watch src --exec \"npm run test && npm run start\""
+  },
+  "keywords": [
+    "eslint",
+    "lint",
+    "starter",
+    "example",
+    "atom",
+    "standard",
+    "standardjs"
+  ],
+  "author": "Michael Trotter",
+  "license": "MIT",
+  "repository": "https://github.com/spicydonuts/eslint-starter",
+  "devDependencies": {
+    "eslint": "^1.10.3",
+    "eslint-config-standard": "^4.4.0",
+    "eslint-plugin-standard": "^1.3.1",
+    "nodemon": "^1.8.1"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
