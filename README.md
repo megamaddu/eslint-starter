@@ -39,3 +39,9 @@ Watch will lint and then restart the server any time files in `src` change!
 * [JSJabber on jshint](https://devchat.tv/js-jabber/082-jsj-jshint-with-anton-kovalyov) (slightly out of date)
 * [JSJabber on code smells](https://devchat.tv/js-jabber/188-jsj-javascript-code-smells-with-elijah-manor)
 * [JavaScript Linting slides](http://slides.com/spicydonuts/lint/fullscreen)
+
+
+### Social Stuff
+* [@t_spicydonuts](https://twitter.com/t_spicydonuts)
+* [github.com/spicydonuts](https://github.com/spicydonuts)
+* [UtahJS Slack](http://slack.utahjavascript.com/)
